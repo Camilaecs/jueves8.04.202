@@ -6,7 +6,11 @@
 ~~tachado~~
 
 
+###list
 
+*uno
+*dos
+*tres   
 
 <ol>
 <li>Paloma</li>
