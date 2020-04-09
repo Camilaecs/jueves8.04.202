@@ -8,9 +8,9 @@
 
 ###list
 
-*uno
-*dos
-*tres   
+- uno
+- dos
+- tres
 
 <ol>
 <li>Paloma</li>
