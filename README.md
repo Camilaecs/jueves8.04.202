@@ -2,7 +2,12 @@
 
 
 ## subtitulo Markdown
-**esto** es una bajada
+**Negrita** letra normal
+--tachado--
+
+
+
+
 <ol>
 <li>Paloma</li>
 <li>Zorzal</li>
