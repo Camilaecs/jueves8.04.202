@@ -3,7 +3,7 @@
 
 ## subtitulo Markdown
 **Negrita** letra normal
---tachado--
+~~tachado~~
 
 
 
