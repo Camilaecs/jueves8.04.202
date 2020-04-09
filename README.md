@@ -6,7 +6,7 @@
 ~~tachado~~
 
 
-###list
+###TIPOS DE LISTA
 
 - uno
 - dos
@@ -15,5 +15,4 @@
 <ol>
 <li>Paloma</li>
 <li>Zorzal</li>
-<li>Gaviota</li>
 </ol>
